@@ -6,4 +6,5 @@ def line(katz_deli)
     katz_deli.each.with_index(1) do |name, index|
      line_is << " #{index}. #{name}"
     end
+  end
 end
