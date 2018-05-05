@@ -4,6 +4,6 @@ def line(katz_deli)
   else
     line_is = "The line is currently:"
     katz_deli.each.with_index(1) do |name, index|
-""
+     ""
     end
 end
