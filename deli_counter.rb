@@ -11,4 +11,5 @@ def line(katz_deli)
 end
 
 def take_a_number(array, name)
-  array.push(name)
+  array.push(name) 
+  puts "Welcome, #{} You are number 1 in line."
